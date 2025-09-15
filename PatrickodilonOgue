@@ -1,0 +1,3 @@
+git remote add portfolio https://github.com/PatrickOdilonOgue/insta-clone-backend
+git remote add webeet https://github.com/webeet-io/insta-clone-backend.git
+git remote -v
